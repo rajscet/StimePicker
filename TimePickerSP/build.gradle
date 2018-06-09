@@ -1,0 +1,21 @@
+apply plugin: 'com.android.library'
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 25
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'uk.co.chrisjenx:calligraphy:2.2.0'
+}

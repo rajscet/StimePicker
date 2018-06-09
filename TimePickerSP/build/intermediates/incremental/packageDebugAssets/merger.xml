@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidDemos\STimePicker\TimePickerSP\src\main\assets"><file name="fonts/Clock2017L.ttf" path="D:\AndroidDemos\STimePicker\TimePickerSP\src\main\assets\fonts\Clock2017L.ttf"/></source><source path="D:\AndroidDemos\STimePicker\TimePickerSP\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\AndroidDemos\STimePicker\TimePickerSP\src\debug\assets"/></dataSet></merger>
